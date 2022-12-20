@@ -1,5 +1,3 @@
-# DDROIDD Winter Internship 2022 Coding Challange
-
 ### Backstory
 
 During this festive season, all children around the globe are sending their requests to Santa. Due to the pandemic, Santa found some extra time and decided to build a computerized system for tracking the gift requests. Unfortunately he had to take care of his reindeer and couldn't finish the project. Let's help Santa!
@@ -50,31 +48,7 @@ Can you apply Singleton Pattern in the current implementation? Please insert a c
 
 *Use the method Question5 from the Program class*
 
-#### 5. Travel Itinerary
+#### 6. Travel Itinerary
  Let's help Santa with his travel itinerary. We need to make sure that Santa visits each city only once. 
 Expected outcome: list with all addresses, grouped by city
 *Use the method Question6 from the Program class*
-
-# Commit Your Solution
-
-#### 1. Package your solution
-Compress your solution folder into a `.zip` or `.7z` archive
-
-#### 2. Send the answers back to ddroidd
-Contact your recruiter via email and send them the archived project solution.
-
-# Observations
-#### 1. Programming Language of choice
-The provided code samples and project structure is a .NET Console Application. The internship will revolve around this technology stack.
-
-However, you are free to complete this challenge using your preferred Object Oriented language
-
-#### 2. Proposed time estimate
-The time allowed for completing this challenge is **3 Days**
-
-#### 3. Solution completeness
-If you don't manage to complete all requirements, that's ok. Just send your partial implementation
-
-
-#### 4. Can I put my project on GitHub instead of sending .zip file?
-Of course, just remember to set up your repository as public and attach clear instructions on how to start the project.
